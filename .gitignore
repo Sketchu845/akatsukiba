@@ -1,0 +1,18 @@
+# данные и артефакты — не коммитим
+*.csv
+*.onnx
+calibration.mqh
+*.ex5
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
